@@ -1,0 +1,16 @@
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.exe
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.deps.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.runtimeconfig.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.runtimeconfig.dev.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\ref\Jenkins_FreeStyle_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\bin\Debug\net5.0\Jenkins_FreeStyle_Demo.pdb
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.csproj.AssemblyReference.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.AssemblyInfoInputs.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.AssemblyInfo.cs
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.csproj.CoreCompileInputs.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\ref\Jenkins_FreeStyle_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.pdb
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\Jenkins_FreeStyle_Demo\obj\Debug\net5.0\Jenkins_FreeStyle_Demo.genruntimeconfig.cache

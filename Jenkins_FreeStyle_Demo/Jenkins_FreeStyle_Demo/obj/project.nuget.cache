@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHqP3bgunSc/X8xIlkFeVYTun4Q4Nkj4coG3Q4iRUvZUTtwkR5IxMI0rkpB9juhrY1aenCoi4SVKkZP0IKhSPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sayantalukdar\\Desktop\\Bench Training\\Jenkins_FreeStyle_Demo\\Jenkins_FreeStyle_Demo\\Jenkins_FreeStyle_Demo\\Jenkins_FreeStyle_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sayantalukdar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

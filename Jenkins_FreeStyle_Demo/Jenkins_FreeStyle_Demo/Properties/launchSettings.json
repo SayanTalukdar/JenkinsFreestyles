@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Jenkins_FreeStyle_Demo": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
