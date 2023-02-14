@@ -10,7 +10,7 @@ pipeline {
             bat "cd Jenkins_FreeStyle_Demo && dotnet build"
         }
         stage('Build docker Image'){
-            bat 'docker build -t sayantalukdar/Jenkins_FreeStyle_Demo'
+            bat 'cd Jenkins_FreeStyle_Demo && docker build -t sayantalukdar/Jenkins_FreeStyle_Demo'
         }
     }
 }
