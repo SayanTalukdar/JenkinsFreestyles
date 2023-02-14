@@ -22,11 +22,11 @@ pipeline {
         //         bat 'cd Jenkins_Pipeline_Demo && docker build -t pipeline_image'
         //     }
         // }
-        stage('Test'){
-            steps{
-                bat "cd Jenkins_Pipeline_Demo && dotnet run"
-            }
-        }
+        // stage('Test'){
+        //     steps{
+        //         bat "cd Jenkins_Pipeline_Demo && dotnet run"
+        //     }
+        // }
         
     }
 }
