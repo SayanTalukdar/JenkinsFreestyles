@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Build docker Image'){
             steps{
-                bat 'cd Jenkins_Pipeline_Demo && docker build -t sayantalukdar/Jenkins_Pipeline_Demo'
+                bat 'cd Jenkins_Pipeline_Demo && docker build -t sayantalukdar/jenkins_pipeline_demo'
             }
         }
         stage('Test'){
