@@ -4,13 +4,13 @@ pipeline {
             git branch: 'main', credentialsId: 'user', url: 'https://github.com/SayanTalukdar/JenkinsFreestyles.git'
         }
         stage('Restore Nuget') {
-            bat 'cd Jenkins_FreeStyle_Demo && "C:\\tools\\nuget.exe" restore Jenkins_FreeStyle_Demo.sln'
+            bat 'cd Jenkins_Pipeline_Demo && "C:\\tools\\nuget.exe" restore Jenkins_FreeStyle_Demo.sln'
         }
         stage('Build') {    
-            bat "cd Jenkins_FreeStyle_Demo && dotnet build"
+            bat "cd Jenkins_Pipeline_Demo && dotnet build"
         }
         stage('Build docker Image'){
-            bat 'cd Jenkins_FreeStyle_Demo && docker build -t sayantalukdar/Jenkins_FreeStyle_Demo'
+            bat 'cd Jenkins_Pipeline_Demo && docker build -t sayantalukdar/Jenkins_Pipeline_Demo'
         }
     }
 }
