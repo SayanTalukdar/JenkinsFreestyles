@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Jenkins_Pipeline_Demo": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

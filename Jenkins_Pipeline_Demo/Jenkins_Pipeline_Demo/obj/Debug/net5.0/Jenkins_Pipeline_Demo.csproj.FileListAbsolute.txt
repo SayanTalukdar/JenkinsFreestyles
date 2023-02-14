@@ -1,0 +1,16 @@
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.exe
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.deps.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.runtimeconfig.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.runtimeconfig.dev.json
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\ref\Jenkins_Pipeline_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\bin\Debug\net5.0\Jenkins_Pipeline_Demo.pdb
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.csproj.AssemblyReference.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.AssemblyInfoInputs.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.AssemblyInfo.cs
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.csproj.CoreCompileInputs.cache
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\ref\Jenkins_Pipeline_Demo.dll
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.pdb
+C:\Users\sayantalukdar\Desktop\Bench Training\Jenkins_FreeStyle_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net5.0\Jenkins_Pipeline_Demo.genruntimeconfig.cache

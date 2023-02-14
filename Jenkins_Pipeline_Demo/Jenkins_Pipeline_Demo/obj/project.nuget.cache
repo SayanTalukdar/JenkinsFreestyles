@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nqS19XmviPs8JT0+WxP1eVEKnMvl4aq2DSPRfycNW8v7XZBYCQDIrZZYagX7Qh6BG9gx2U01gghmlnY4gu6URw==",
+  "dgSpecHash": "0uZ/ut2s9EtpeQnXD9IgB/nBI3QUcV1PoV13IawpKlDtrOSvtJmq1Kad4QOlWFw3dZgTTaW0WGk3amC1Pb1Azg==",
   "success": true,
   "projectFilePath": "C:\\Users\\sayantalukdar\\Desktop\\Bench Training\\Jenkins_FreeStyle_Demo\\Jenkins_Pipeline_Demo\\Jenkins_Pipeline_Demo\\Jenkins_Pipeline_Demo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sayantalukdar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }
