@@ -6,11 +6,11 @@ pipeline {
                 git branch: 'main', credentialsId: 'user', url: 'https://github.com/SayanTalukdar/JenkinsFreestyles.git'
             }
         }
-        stage('Restore Nuget') {
-            steps{
-                bat 'cd Jenkins_Pipeline_Demo && "C:\\tools\\nuget.exe" restore Jenkins_FreeStyle_Demo.sln'
-            }
-        }
+        // stage('Restore Nuget') {
+        //     steps{
+        //         bat 'cd Jenkins_Pipeline_Demo && "C:\\tools\\nuget.exe" restore Jenkins_FreeStyle_Demo.sln'
+        //     }
+        // }
 
         stage('Build') {    
             steps{
