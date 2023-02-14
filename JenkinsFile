@@ -6,11 +6,15 @@ pipeline {
         stage('Restore Nuget') {
             bat 'cd Jenkins_Pipeline_Demo && "C:\\tools\\nuget.exe" restore Jenkins_FreeStyle_Demo.sln'
         }
-        stage('Build') {    
-            bat "cd Jenkins_Pipeline_Demo && dotnet build"
-        }
         stage('Build docker Image'){
             bat 'cd Jenkins_Pipeline_Demo && docker build -t sayantalukdar/Jenkins_Pipeline_Demo'
         }
+        stage('Build') {    
+            bat "cd Jenkins_Pipeline_Demo && dotnet build"
+        }
+        stage('Test'){
+            bat "cd Jenkins_Pipeline_Demo && dotnet run"
+        }
+        
     }
 }
